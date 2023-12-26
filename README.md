@@ -41,6 +41,9 @@ Colunas utilizadas para analise:
  - **year**: ano de referência.
 
 Autor: Genésio Moreira Coutinho
+
 Linkedin: [link](https://www.linkedin.com/in/genesio-coutinho-554733124/)
+
 Kaggle Notebook: [link](https://www.kaggle.com/code/genesiomoreira/notebook-dashboard-covid-brasil-2021)
+
 Google Colab Notebook: [link](https://colab.research.google.com/drive/1NZd3X8e0rQh_lFvDPXb-7ZUDCdIhZMAh?usp=sharing)
